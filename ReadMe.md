@@ -11,9 +11,9 @@ Java-Grammar
 ## 기초 문법
   
 ### 입문
-* 변수
-* 상수
-* 주석
+* [변수](https://github.com/huewilliams/learning-Java/blob/master/basic/variable/ReadMe.md)
+* [상수](https://github.com/huewilliams/learning-Java/tree/master/basic/constant)
+* [주석](https://github.com/huewilliams/learning-Java/blob/master/basic/comment/ReadMe.md)
 * main 메소드
 
 ### 자료형
