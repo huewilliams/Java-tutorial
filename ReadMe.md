@@ -15,6 +15,8 @@ Java-Grammar
 * [상수](https://github.com/huewilliams/learning-Java/tree/master/basic/constant)
 * [주석](https://github.com/huewilliams/learning-Java/blob/master/basic/comment/ReadMe.md)
 * main 메소드
+* [키보드 입력](https://github.com/huewilliams/learning-Java/blob/master/basic/keyboardInput/KeyInput.md)
+    * [예제](https://github.com/huewilliams/learning-Java/blob/master/basic/keyboardInput/Input.java)
 
 ### 자료형
 * 정수형(integer)
