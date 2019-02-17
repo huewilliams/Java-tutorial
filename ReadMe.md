@@ -22,5 +22,28 @@ Java-Grammar
 * 논리형(boolean)
 * 문자형(char)
 
+### 연산자
+> 😸 : 쉬프트 연산은 비트 연산과 따로 분리했습니다.
+* [산술연산(+, -, *, /, %)](https://github.com/huewilliams/learning-Java/blob/master/basic/operator/Arithmetic.md)
+* [비교(관계)연산(<, >, <=, >=, ==, !=)](https://github.com/huewilliams/learning-Java/blob/master/basic/operator/Comparison.md)
+* [논리연산(&&, ||, !)](https://github.com/huewilliams/learning-Java/blob/master/basic/operator/Logical.md)
+* [비트연산(&, |, ^, ~)](https://github.com/huewilliams/learning-Java/blob/master/basic/operator/Bitwise.md)
+* [쉬프트연산(<<, >>, >>>)](https://github.com/huewilliams/learning-Java/blob/master/basic/operator/Shift.md)
+* [대입연산(=, +=, *=, ...)](https://github.com/huewilliams/learning-Java/blob/master/basic/operator/assignment.md)
+* [증감연산(++, --)](https://github.com/huewilliams/learning-Java/blob/master/basic/operator/In-Decrement.md)
+* [조건(삼항)연산( ? : )](https://github.com/huewilliams/learning-Java/blob/master/basic/operator/Ternary.md)
+
+### 제어문
+* if 문
+* switch/case 문
+* while 문
+* for 문
+* for each 문
+
+### 배열
+* 1차원 배열
+* 2차원 배열
+
 ## 객체지향 프로그래밍(OOP)  
+
 ## 심화 문법  
