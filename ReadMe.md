@@ -50,9 +50,9 @@ Java-Grammar
 * [OOP, 캡슐화와 특징](https://github.com/huewilliams/learning-Java/blob/master/OOP/Encapsulation.md)
 
 ### 클래스 part1 : 클래스 구성
-* 클래스 정의
-* 멤버 필드(변수)
-* 메소드 선언과 사용
+* [클래스 선언](https://github.com/huewilliams/learning-Java/blob/master/OOP/part1/class%20define.md)
+* [멤버 필드(변수)](https://github.com/huewilliams/learning-Java/blob/master/OOP/part1/Instance%20variable.md)
+* [메소드 선언과 사용](https://github.com/huewilliams/learning-Java/blob/master/OOP/part1/method.md)
 * 접근지정자
 
 ### 클래스 part2 : 생성자와 오버로딩 
