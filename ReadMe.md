@@ -47,25 +47,26 @@ Java-Grammar
 * 2차원 배열
 
 ## 객체지향 프로그래밍(OOP)  
+![OOP](./img/oop.png)
 * [OOP, 캡슐화와 특징](https://github.com/huewilliams/learning-Java/blob/master/OOP/Encapsulation.md)
 
 ### 클래스 part1 : 클래스 구성
 * [클래스 선언](https://github.com/huewilliams/learning-Java/blob/master/OOP/part1/class%20define.md)
 * [멤버 필드(변수)](https://github.com/huewilliams/learning-Java/blob/master/OOP/part1/Instance%20variable.md)
 * [메소드 선언과 사용](https://github.com/huewilliams/learning-Java/blob/master/OOP/part1/method.md)
-* 접근지정자
 
 ### 클래스 part2 : 생성자와 오버로딩 
-* 생성자
-* this
+* [생성자](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/Constructor.md)
+* [this, this()](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/this.md)
 * 메소드 오버로딩(중복정의)
 * 생성자 오버로딩
 
 ### 클래스 part3 : 상속과 오버라이딩
 * 상속
 * super
-* 메서드 오버라이딩(재정의)
+* 메소드 오버라이딩(재정의)
 * 필드 오버라이딩
+* 접근지정자
 
 ### 클래스 part4 : 다형성과 인터페이스
 * 다형성
