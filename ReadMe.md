@@ -58,8 +58,8 @@ Java-Grammar
 ### 클래스 part2 : 생성자와 오버로딩 
 * [생성자](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/Constructor.md)
 * [this, this()](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/this.md)
-* 메소드 오버로딩(중복정의)
-* 생성자 오버로딩
+* [메소드 오버로딩(중복정의)](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/Method%20Overloading.md)
+* [생성자 오버로딩](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/Constructor%20Overloading.md)
 
 ### 클래스 part3 : 상속과 오버라이딩
 * 상속
