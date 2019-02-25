@@ -62,11 +62,11 @@ Java-Grammar
 * [생성자 오버로딩](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/Constructor%20Overloading.md)
 
 ### 클래스 part3 : 상속과 오버라이딩
-* 상속
-* super
-* 메소드 오버라이딩(재정의)
-* 필드 오버라이딩
-* 접근지정자
+* [상속](https://github.com/huewilliams/learning-Java/blob/master/OOP/part3/Inheritance.md)
+* [super 와 부모생성자](https://github.com/huewilliams/learning-Java/blob/master/OOP/part3/super.md)
+* [메소드 오버라이딩(재정의)](https://github.com/huewilliams/learning-Java/blob/master/OOP/part3/Method%20Overriding.md)
+* [접근지정자](https://github.com/huewilliams/learning-Java/blob/master/OOP/part3/Access%20Modifier.md)
+* 클래스 형변환
 
 ### 클래스 part4 : 다형성과 인터페이스
 * 다형성
