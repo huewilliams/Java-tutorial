@@ -60,6 +60,7 @@ Java-Grammar
 * [this, this()](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/this.md)
 * [메소드 오버로딩(중복정의)](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/Method%20Overloading.md)
 * [생성자 오버로딩](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/Constructor%20Overloading.md)
+* [getter 와 setter](https://github.com/huewilliams/learning-Java/blob/master/OOP/part2/getter%26setter.md)
 
 ### 클래스 part3 : 상속과 오버라이딩
 * [상속](https://github.com/huewilliams/learning-Java/blob/master/OOP/part3/Inheritance.md)
@@ -72,4 +73,6 @@ Java-Grammar
 * 다형성
 * 추상화
 * 인터페이스
+* 내부클래스
+* 익명클래스
 ## 심화 문법  
