@@ -80,4 +80,15 @@ Java-Grammar
 * 내부 클래스
 * 익명 클래스
 * [Object 클래스](https://github.com/huewilliams/learning-Java/blob/master/OOP/part4/Object%20class.md) 
-## 심화 문법  
+## java.lang 패키지
+![java.lang package](./img/java.lang.package.gif) 
+Java의 lang 패키지는 JAVA 프로그래밍의 가장 기본적인 클래스가 
+모여있는 클래스이다.
+* [java.lang 패키지/오토박싱]()
+
+## java.util 패키지
+![java.util package](./img/java.util.package.gif)
+Java의 util 패키지는 Java 프로그래밍의 유용한 클래스를
+모아둔 것으로 대표적으로 날짜와 관련된 Date, Calender 가 있으며,
+Collection 자료구조 관련 클래스들이 포함되어있다.
+* java.util 패키지
