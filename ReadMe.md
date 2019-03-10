@@ -46,6 +46,9 @@ Java-Grammar
 * 1차원 배열
 * 2차원 배열
 
+### 열거형
+* [enum](https://github.com/huewilliams/learning-Java/blob/master/basic/enum/enum.md)
+
 ## 객체지향 프로그래밍(OOP)  
 ![OOP](./img/oop.png)
 * [OOP, 캡슐화와 특징](https://github.com/huewilliams/learning-Java/blob/master/OOP/Encapsulation.md)
@@ -71,8 +74,10 @@ Java-Grammar
 
 ### 클래스 part4 : 다형성과 인터페이스
 * 다형성
-* 추상화
-* 인터페이스
-* 내부클래스
-* 익명클래스
+* [추상화](https://github.com/huewilliams/learning-Java/blob/master/OOP/part4/Abstract.md)
+* [인터페이스](https://github.com/huewilliams/learning-Java/blob/master/OOP/part4/Interface.md)
+* [인터페이스 default, static 메소드](https://github.com/huewilliams/learning-Java/blob/master/OOP/part4/Interface%20method.md)
+* 내부 클래스
+* 익명 클래스
+* [Object 클래스](https://github.com/huewilliams/learning-Java/blob/master/OOP/part4/Object%20class.md) 
 ## 심화 문법  
